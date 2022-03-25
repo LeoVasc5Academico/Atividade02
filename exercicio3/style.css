@@ -1,0 +1,28 @@
+body{
+    background-color: #d3d3d3;
+}
+
+.a{
+    background-color: #fff;
+    height: 500px;
+    width: 50vh;
+    border: 10px dotted #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.b{
+    background-color: #f00;
+    height: 50px;
+    width: 35%;
+}
+
+.c{
+    background-color: rgb(255, 140, 0);
+    color: #fff;
+    font-size: 30px;
+    padding: 50px;
+    margin-left: 50px;
+    margin-top: 100px;
+}

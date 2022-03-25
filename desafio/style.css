@@ -1,0 +1,79 @@
+.a{
+    background-color: #964B00;
+    height: 150px;
+    width: 80%;
+    border: 10px solid #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.b{
+    background-color: #fff;
+    border: 10px solid #000;
+    height: 50%;
+    width: 85%;
+    font-weight: 700;
+    font-family: Arial;
+    color: #00F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.c{
+    padding: 5%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.barraAzul{
+    background-color: #00F;
+    height: 25px;
+    width: 85%;
+}
+
+.barraRosa{
+    background-color: #993399;
+    height: 25px;
+    width: 55%;
+}
+
+.barraVerde{
+    background-color: #008000;
+    height: 25px;
+    width: 75%;
+}
+
+.barraAmarela{
+    background-color: #FF0;
+    height: 25px;
+    width: 65%;
+}
+
+.d{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.barraVermelha{
+    background-color: #F00;
+    height: 25px;
+    width: 40%;
+}
+
+.barraVerdeEstranho{
+    background-color: #5C5E32;
+    height: 25px;
+    width: 25%;
+}
+
+.barraVerdeClaro{
+    background-color: #B9C558;
+    height: 25px;
+    width: 35%;
+}
